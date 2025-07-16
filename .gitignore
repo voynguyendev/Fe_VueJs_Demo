@@ -5,7 +5,6 @@ coverage
 .nitro
 .cache
 .output
-.env
 dist
 .DS_Store
 .idea
@@ -13,3 +12,6 @@ dist
 api-generator/typedoc.json
 **/.DS_Store
 node_modules
+/.vs/Fe_VueJs_Demo/FileContentIndex/7753a400-8826-4cc0-80f5-524256bb0f0c.vsidx
+*.vsidx
+config.bat

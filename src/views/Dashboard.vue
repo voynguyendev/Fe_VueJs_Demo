@@ -1,0 +1,5 @@
+<script setup></script>
+
+<template>
+    <div class="font-semibold text-xl mb-4">Dashboard</div>
+</template>
